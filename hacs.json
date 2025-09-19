@@ -1,0 +1,6 @@
+{
+  "name": "Mini Media Player",
+  "render_readme": true,
+  "filename": "mini-media-player-bundle.js",
+  "type": "plugin"
+}
